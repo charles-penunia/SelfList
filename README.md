@@ -1,6 +1,6 @@
 # SelfList
 
-A personal to-list for anyone that wants to focus on effective self-management.
+A personal to-list for anyone that wants to focus on effective self-management. This app is created for the CMPSC 475 final project, taught in The Pennsylvania State University.
 
 ## App Definition Statement
 
